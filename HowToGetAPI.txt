@@ -1,0 +1,10 @@
+How to get the Unsplash API:
+
+1. Go to https://unsplash.com/developers
+2. Click on Register as a Developer
+3. ign up for an account.
+4. Once you have an account, go to the developer section of the website and click on the “Register a new application” button. 
+(Note: Demo apps are limited to 50 reqests per hour.)
+5. Once you have submitted the form, you will be provided with an API key that you can use to access the Unsplash API.
+6. copy the following Access key shown ther and pate it into your javascript file:
+const accessKey = "YOUR ACCESS KEY";
